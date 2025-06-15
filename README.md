@@ -13,7 +13,7 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
 - [`resources/`](resources/): Additional resources and materials for the various tracks
   - [`resources/MOSbius`](resources/MOSbius)
   - [`resources/Digital_Building_Blocks`](resources/Digital_Building_Blocks)
-  - [`resources/AnalogAutomation_gLayout`](resources/AnalogAutomation_gLayout)
+  - [`resources/Analog_Automation_gLayout`](resources/Analog_Automation_gLayout)
   - [`resources/Integration`](resources/Integration)
 - [`examples/`](examples/): Example projects and templates
 
