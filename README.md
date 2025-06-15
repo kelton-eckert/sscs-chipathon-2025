@@ -9,7 +9,7 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
 ## Structure of This Repository
 
 - [`schedule/`](schedule/): Contains the event schedule and important dates
-- [`docs/`](docs/): Documentation and guidelines for participants
+- [`docs/`](docs/): Documentation and [guidelines](docs/guidelines.md) for participants
 - [`resources/`](resources/): Additional resources and materials for the various tracks
   - [`resources/MOSbius`](resources/MOSbius)
   - [`resources/Digital_Building_Blocks`](resources/Digital_Building_Blocks)
