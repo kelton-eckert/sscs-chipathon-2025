@@ -8,14 +8,14 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
 
 ## Structure of This Repository
 
-- `schedule/`: Contains the event schedule and important dates
-- `docs/`: Documentation and guidelines for participants
-- `resources/`: Additional resources and materials for the various tracks
+- [`schedule/`](schedule/): Contains the event schedule and important dates
+- [`docs/`](docs/): Documentation and guidelines for participants
+- [`resources/`](resources/): Additional resources and materials for the various tracks
   - [`resources/MOSbius`](resources/MOSbius)
-  - `resources/Digital_Building_Blocks`
-  - `resources/AnalogAutomation_gLayout`
-  - `resources/Integration`
-- `examples/`: Example projects and templates
+  - [`resources/Digital_Building_Blocks`](resources/Digital_Building_Blocks)
+  - [`resources/AnalogAutomation_gLayout`](resources/AnalogAutomation_gLayout)
+  - [`resources/Integration`](resources/Integration)
+- [`examples/`](examples/): Example projects and templates
 
 ## Quick Links
 
