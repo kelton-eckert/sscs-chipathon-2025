@@ -1,22 +1,33 @@
 <div align="center">
-  <img src="./images/Chipathon_Master-22-10-48.png" width="60%">
+  <img src="./images/image-poster.png" width="60%">
 </div>
 
-Welcome to the IEEE SSCS Chipathon 2025! This document serves as a guide for participants, providing essential information about the Chipathon activity.
-
-During the Chipathon activity, you will select one project to participate:
+Welcome to the IEEE SSCS Chipathon 2025! <br>
+This guide provides key information for participants. During the Chipathon, you will choose one track as shown below.
 
 <div align="center">
-  <img src="./images/image-tracks.png" width="80%">
+  <img src="./images/image-tracks.png" width="70%">
 </div>
 
-If you are a **Beginner**, we encourage you to follow the below procedures:
+We encourage you to go througgh the following procedures:
 
 1. General tool setup
 2. Track-specific setup
     - MOSbius
     - Digital Building Blocks
     - Analog Automation
+
+<br>
+
+<div align="center">
+  <img src="./images/image-gf180.png" width="50%">
+</div>
+
+In 2025 Chipathon, an open-source GlobalFoundries 180nm (gf180) process design kit (PDK) will be used. You can check the following links for more info:
+
+- [Github Repository](https://github.com/google/gf180mcu-pdk)
+- [Documentation](https://gf180mcu-pdk.readthedocs.io/en/latest/)
+- [YouTube Videos](https://www.youtube.com/playlist?list=PLZuGFJzpFksCU7yKn2P_xRTOktVBDWAJf)
 
 <br><br>
 
@@ -29,8 +40,8 @@ Choose one of the following links to setup the tools, which best fits your envir
 **MOSbius** and **Analog Automation** tracks use slight variations of the general tool setup. Once you are familiar with the general tool setup, adapting to each track is straightforward.
 
 - **[Windows/MacOS only]** <br>
-👉 Kwantae Kim's [Blog Post](https://kwantaekim.github.io/2024/05/25/OSE-Docker/) (beginner-friendly)
-
+👉 Kwantae Kim's [Blog Post](https://kwantaekim.github.io/2024/05/25/OSE-Docker/) <br>
+🌱 Beginner-friendly
 - **[Any OS]** <br>
 👉 Saptarshi Ghosh's [Google Doc](https://docs.google.com/document/d/13r-pB7vhYnCb-n46CAAlqXrKSj99bQtmEeyoayEV3Ak/edit?tab=t.0)
 
@@ -45,7 +56,7 @@ Choose one of the following links to setup the tools, which best fits your envir
 
 ## 2.2. Digital Building Blocks
 
-
+> 🚧 **Under Construction** 
 
 ## 2.3. Analog Automation
 
