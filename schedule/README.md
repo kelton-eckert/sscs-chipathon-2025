@@ -1,14 +1,17 @@
 # SSCS Chipathon 2025 Schedule
 
-This document outlines the official schedule for the SSCS Chipathon 2025 event. All dates and activities are subject to confirmation.
-Please follow the [Element Chipathon 2025 channel](https://matrix.to/#/#chipathon-2025:fossi-chat.org) for up-to-date information. 
+This document outlines the official schedule for the SSCS Chipathon 2025 event.
+<br>All dates and activities are subject to confirmation.
+<br>Please follow the [Element Chipathon 2025 channel](https://matrix.to/#/#chipathon-2025:fossi-chat.org) for up-to-date information. 
+<br>Teams are expected to complete a report by Wednesday of each week.
+<br>Individuals should complete a report up until the week after they join a team.
 
 ## 🗓️ Detailed Timeline
 
 ### Phase 1: Setup and Introduction
 | Week | Date | Event | Track Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|---------------|:-----------:|:--------:|:------:|
-| Week 24 | June 13, 2025 | **Kick-off Meeting** 🎓 | Introduction to chipathon phases (B. Murmann & M. Saligane) | [TBA]() | [View](https://docs.google.com/presentation/d/e/2PACX-1vQpsnQQYx9rm3Uk-9ZUyKv26wrVA1GNQS0Tp_aF_eWgUR7Z0twmoNh9nN4o8xFUaA/pub?start=false&loop=false&delayms=3000) | [TBA]() |
+| Week 24 | June 13, 2025 | **Kick-off Meeting** 🎓 | Introduction to chipathon phases (B. Murmann & M. Saligane) | [Watch](https://us06web.zoom.us/rec/play/7R43zVdBJIvKUHO5Hb1xpNI1o8aFAAOuyqDFUhHvJ20juDu67ZuM7Q9cKQpP4gMgjD79bYylSrV_7_E9.gH8j7Eni3SR8X_LS) | [View](https://docs.google.com/presentation/d/e/2PACX-1vQpsnQQYx9rm3Uk-9ZUyKv26wrVA1GNQS0Tp_aF_eWgUR7Z0twmoNh9nN4o8xFUaA/pub?start=false&loop=false&delayms=3000) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSf0l9pjk8H13COk0u5g6rslO9XfCWfeswnFdNbhgkuZ-IzfTA/viewform?usp=dialog) |
 | Week 25 | June 20, 2025 | **Tool Installation** 🎓 | • Full custom (analog) tool chain in docker (Harald)<br>• gLayout additional steps (Saptarshi) | [TBA]() | [TBA]() | [TBA]() |
 | Week 26 | June 27, 2025 | **Track Overviews** 🎓 | • MOSbius Overview (Peter)<br>• gLayout Tutorial 1 (Saptarshi/Mehdi)<br>• VLSI I + Building Blocks & Flow (Amro, T. Edwards) | [TBA]() | [TBA]() | [TBA]() |
 | Week 27 | July 04, 2025 | **Tutorial Sessions** 🎓 | • GF180 Examples (Juan)<br>• gLayout Tutorial 2 (Saptarshi/Mehdi/Akira)<br>• VLSI II + Building Blocks & Flow | [TBA]() | [TBA]() | [TBA]() |
@@ -16,7 +19,7 @@ Please follow the [Element Chipathon 2025 channel](https://matrix.to/#/#chipatho
 ### Phase 2: Team Formation and Project Planning
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
-| - | July 05, 2025 | **Team Formation Deadline** | - | - |
+|  | July 05, 2025 | **Team Formation Deadline** |  |  |
 | Week 28 | July 11, 2025 | **Project Proposal Review** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
 | Week 29 | July 18, 2025 | **Advanced Topics** 🎓 | • Systematic Design of Analog CMOS Circuits (Boris)<br>• LLM RAG Finetuning & Training (Greg) | [TBA]() | [TBA]() | [TBA]() |
 | Week 30 | July 25, 2025 | **LLM Integration** 🎓 | • Tutorial: Schematic Database & Simulations (Peter)<br>• Introduction to CACE (Tim E.)<br>• LLM-assisted analog Layout (Saptarshi, Greg, Mehdi)<br>• LLM assisted Digital Flow (Amro, Greg) | [TBA]() | [TBA]() | [TBA]() |
@@ -27,7 +30,7 @@ Please follow the [Element Chipathon 2025 channel](https://matrix.to/#/#chipatho
 | Week 31 | Aug 01, 2025 | **Schematic Review** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
 | Week 32 | Aug 08, 2025 | **Simulation Review (blocks)** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
 | Week 33 | Aug 15, 2025 | **Simulation Review (top level)** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
-| - | Aug 16, 2025 | **READiness Check & Go/No-go Decision** | - | - | - | []() |
+|  | Aug 16, 2025 | **READiness Check & Go/No-go Decision** |  |  |  |  |
 
 ### Phase 4: Layout and Verification
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
@@ -36,17 +39,17 @@ Please follow the [Element Chipathon 2025 channel](https://matrix.to/#/#chipatho
 | Week 35 | Aug 29, 2025 | **Integration Tutorial** 🎓 | Top level, ESD, padframe, packaging (Juan, Akira) | [TBA]() | [TBA]() | [TBA]() |
 | Week 36 | Sept 05, 2025 | **Layout Review (blocks)** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
 | Week 37 | Sept 12, 2025 | **Layout Review (top level)** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
-| - | Sept 12, 2025 | **DRC Dry-run** | GDS to Channel Partner | - | []() | []() |
+|  | Sept 12, 2025 | **DRC Dry-run** | GDS to Channel Partner |  |  |  |  |
 | Week 38 | Sept 19, 2025 | **Verification** 👥 | Simulations w/ PEX + CACE | [TBA]() | [TBA]() | [TBA]() |
 | Week 39 | Sept 26, 2025 | **Final Chip Review** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
-| - | Sept 26, 2025 | **Final Submission** | DRC-clean GDS to Channel Partner | - | [TBA]() | [TBA]() | [TBA]() |
+|  | Sept 26, 2025 | **Final Submission** | DRC-clean GDS to Channel Partner |  |  |  |  |
 | Week 40 | Oct 03, 2025 | **Post-mortem** 👥 | Project retrospective | [TBA]() | [TBA]() | [TBA]() |
 
 ### Phase 5: Manufacturing and Testing
 | Date | Event | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|--------|:-----------:|:--------:|:------:|
-| February 2026 | Chips available for testing | - | [TBA]() | [TBA]() | [TBA]() |
-| April 30, 2026 | Upload of Chip Test Results 👥 | - | [TBA]() | [TBA]() | [TBA]() |
+| February 2026 | Chips available for testing |  |  |  |  |
+| April 30, 2026 | Upload of Chip Test Results 👥 |  |  |  |  |
 
 ## 📋 Track Overview
 
@@ -54,7 +57,6 @@ The chipathon includes several parallel tracks:
 - **MOSbius Track**: Focus on analog design and simulation
 - **gLayout Track**: Layout and physical design
 - **Digital Design Track**: Digital circuit implementation
-- **Integration Track**: System integration and verification
 
 ## 🎯 Legend
 - 🎓 **Presentations by mentors**: Technical sessions and tutorials
@@ -72,7 +74,7 @@ The chipathon includes several parallel tracks:
 
 ## 📞 Support
 
-For questions about specific tracks, please contact the respective track leaders:
+For questions about specific issues, please contact the respective leaders:
 - MOSbius: Peter Kinget, Juan M. Baquero
 - gLayout: Saptarshi Gosh, Akira Tsuchiya, Mehdi Saligane
 - Digital Design: Amro Tork, James Stine, Tim Edwards
