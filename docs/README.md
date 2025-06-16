@@ -20,7 +20,21 @@ If you are a **Beginner**, we encourage you to follow the below procedures:
 
 # 1. General Tool Setup
 
-The following guidelines will help you set up the tools using the <a href="https://github.com/iic-jku/iic-osic-tools" target="_blank">IIC-OSIC-TOOLS</a> Docker image made by Harald Pretl's team.
+The following guidelines help you set up the tools using the [IIC-OSIC-TOOLS](https://github.com/iic-jku/iic-osic-tools) Docker image by Harald Pretl's team. 
+
+Choose one of the following links to setup the tools, which best fits your environment.
+
+Experienced users may configure the tools using their own preferred method.
+
+**[Windows/MacOS only]** <br>
+👉 Kwantae Kim's [Blog Post](https://kwantaekim.github.io/2024/05/25/OSE-Docker/) (beginner-friendly)
+
+**[Any OS]** <br>
+👉 Saptarshi Ghosh's [Google Doc](https://docs.google.com/document/d/13r-pB7vhYnCb-n46CAAlqXrKSj99bQtmEeyoayEV3Ak/edit?tab=t.0)
+
+<br><br>
+
+# 2. General Tool Setup
 
 
 
