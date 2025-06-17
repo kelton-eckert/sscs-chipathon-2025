@@ -17,6 +17,7 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
   - [`resources/Analog_Automation_gLayout`](resources/Analog_Automation_gLayout)
   - [`resources/Integration`](resources/Integration)
 - [`examples/`](examples/): Example projects and templates
+  - [`examples/analog_tutorial`](examples/analog_tutorial): A simple analog inverter tutorial.
 
 ## Quick Links
 
