@@ -11,6 +11,7 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
 - [`schedule/`](schedule/): Contains the event schedule and important dates
 - [`docs/`](docs/): Documentation and [guidelines](docs/guidelines.md) for participants
 - [`resources/`](resources/): Additional resources and materials for the various tracks
+  - [`resources/IIC-OSIC-TOOLS`](resources/IIC-OSIC-TOOLS): Startup scripts for the IIC-OSIC-TOOLS
   - [`resources/MOSbius`](resources/MOSbius)
   - [`resources/Digital_Building_Blocks`](resources/Digital_Building_Blocks)
   - [`resources/Analog_Automation_gLayout`](resources/Analog_Automation_gLayout)
@@ -25,16 +26,19 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
 
 ## Collaboration Space in Element (Matrix)
 
-We use Element (a Matrix client) for all communications. 
+We use Element (a Matrix client) for all communications.
 
 ### Element Matrix Chat Channels
+
 #### Getting Started with Element
+
 1. Visit [element.fossi-chat.org](https://element.fossi-chat.org/)
 2. Create an account or sign in
 3. Join both the chipathon-specific channel and the general chat (see below)
 4. Introduce yourself to the community!
 
 #### Channels
+
 There are two main channels:
 
 1. **Chipathon 2025 Channel**
@@ -53,8 +57,6 @@ There are two main channels:
      - Community engagement
      - Industry news and updates
 
-
-
 ## Important Dates
 
 Please refer to the [detailed schedule](schedule/README.md) for the complete timeline of events.
@@ -62,6 +64,7 @@ Please refer to the [detailed schedule](schedule/README.md) for the complete tim
 ## Contact
 
 For questions and support:
+
 1. Join our Matrix chat channels (preferred method)
 2. [Open an issue](../../issues) in this repository
 3. Contact the organizing committee
