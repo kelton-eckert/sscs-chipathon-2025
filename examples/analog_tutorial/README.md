@@ -8,6 +8,8 @@ A video tutorial on how to draw a simple inverter using `Xschem` and how to simu
 - Tutorial using Xschem and ngspice with gf180mcu ([part 2](https://youtu.be/DLvZSsLAbho))
 - Tutorial using Xschem and ngspice with gf180mcu ([part 3](https://youtu.be/nBnR8Nm_B_I))
 
+A lot of useful information about analog design and how to operate `ngspice` you can find also in this [online analog circuit design course](https://iic-jku.github.io/analog-circuit-design/analog_circuit_design.html). Please note that it uses the `ihp-sg13g2` PDK.
+
 A second video tutorial on how to draw the layout of the inverter using `KLayout` is also available on YouTube. Please follow this tutorial in your local installation of the IIC-OSIC-TOOLS.
 
 - Tutorial using KLayout with gf180mcu ([part 4](https://youtu.be/vamfMryYPS4))
