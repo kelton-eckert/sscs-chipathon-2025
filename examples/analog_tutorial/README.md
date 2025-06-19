@@ -19,3 +19,4 @@ In addition, the following prepared files are available here for your reference:
 - `inv.sch`: The schematic of the inverter, designed using `Xschem`.
 - `inv.sym`: The symbol for the inverter, also designed using `Xschem`.
 - `inv_tb.sch`: The testbench schematic for simulating the inverter, designed using `Xschem` and simulating with `ngspice`. Open this file in `Xschem` using `xschem inv_tb.sch`.
+- `inv.gds`: An example layout of the inverter designed in `inv.sch`.
