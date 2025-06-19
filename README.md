@@ -16,6 +16,7 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
   - [`resources/Digital_Building_Blocks`](resources/Digital_Building_Blocks)
   - [`resources/Analog_Automation_gLayout`](resources/Analog_Automation_gLayout)
   - [`resources/Integration`](resources/Integration)
+  - [`resources/Sizing`](resources/Sizing): Sizing data and characterization plots using the gm/ID method
 - [`examples/`](examples/): Example projects and templates
   - [`examples/analog_tutorial`](examples/analog_tutorial): A simple analog inverter tutorial.
 
