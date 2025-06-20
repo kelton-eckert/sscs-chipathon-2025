@@ -27,11 +27,13 @@ For the 2025 Chipathon, we will use the open-source GlobalFoundries 180nm (gf180
 
 # 1. General Tool Setup
 
-The following guidelines help you set up the tools using the [IIC-OSIC-TOOLS](https://github.com/iic-jku/iic-osic-tools) Docker image developed by Harald Pretl's team.  
-NOTE: For this Chipathon, it is not required to use the repository for the IIC-OSIC-TOOLS directly, since startup-scripts are provided in [resources/IIC-OSIC-TOOLS](/resources/IIC-OSIC-TOOLS).
-NOTE: For this Chipathon, a special image of the IIC-OSIC-TOOLS is released, with the tag "chipathon". If you use the start-scripts provided here, this tag is used automatically.
+The following guidelines help you set up the tools using the [IIC-OSIC-TOOLS](https://github.com/iic-jku/iic-osic-tools) Docker image developed by Harald Pretl's team.
 
-Please choose one of the following tutorial links to set up the tools, which best fits your environment. Experienced users may configure the tools using their own preferred approach.
+**NOTE**: For this Chipathon, it is not required to use the repository for the IIC-OSIC-TOOLS directly, since startup-scripts are provided in [resources/IIC-OSIC-TOOLS](/resources/IIC-OSIC-TOOLS).
+
+**NOTE**: For this Chipathon, a special image of the IIC-OSIC-TOOLS is released, with the tag "chipathon". If you use the start-scripts provided here, this tag is used automatically.
+
+Please start with the Quick Start Guide and setup Docker Desktop and the IIC-OSIC-TOOLS. Then, choose one of the following tutorial links to set up the tools, which best fits your environment. Experienced users may configure the tools using their own preferred approach.
 
 The **MOSbius** and **Analog Automation** tracks require slight variations of the general tool setup. Once you are familiar with the general procedure, adapting it for each track should be straightforward.
 
