@@ -9,6 +9,10 @@
 
     - [IIC-OSIC Docker Image setup](../IIC-OSIC-TOOLS/README.md)
     - [gLayout Specific Setup](./files/gLayout_Install.md)
+      
+- :new: gLayout: [Tutorials](https://github.com/ReaLLMASIC/gLayout/tree/main/tutorial)
+    - [Flipped Voltage Follower (FVF)](https://github.com/ReaLLMASIC/gLayout/blob/main/tutorial/glayout_tutorial_FVF_part1.ipynb)
+    - [Inverter (INV)](https://github.com/ReaLLMASIC/gLayout/blob/main/tutorial/glayout_tutorial_INV_part1.ipynb)
 
 - gLayout: [Contribution Guidelines](https://docs.google.com/document/d/e/2PACX-1vQ9F87BS4lC2H-BhqVhrEeN6cjHAp3Y6hl-7hd66XaX-45H-ELWVnJ2_sHwtAND5Kp36UI816LhIj6x/pub)
     - [Fork the gLayout Repo]() 
