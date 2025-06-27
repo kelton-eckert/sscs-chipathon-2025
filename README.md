@@ -1,6 +1,6 @@
 # SSCS Chipathon 2025: Blocks & Bots
 
-Welcome to the IEEE SSCS Chipathon 2025 repository! This event focuses on "Blocks & Bots: An Open Chip Playground augmented with LLMs."
+Welcome to the IEEE SSCS Chipathon 2025 repository!<br>This event focuses on "Blocks & Bots: An Open Chip Playground augmented with LLMs."<br>We encourage you to `Watch` this repo for the latest updates.
 
 ## About the Event
 
@@ -58,6 +58,9 @@ There are two main channels:
      - General chip design
      - Community engagement
      - Industry news and updates
+
+## Teams
+We encourage participation in teams of up to about 5 people. You can view the [current teams here](https://docs.google.com/spreadsheets/d/1-4hL9yIN_m4WoPQepvqVlJ4-bEUh6FnOtUP1uCXJMR4/) (updated weekly).
 
 ## Important Dates
 
