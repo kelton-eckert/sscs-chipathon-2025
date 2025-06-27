@@ -1,10 +1,10 @@
-# OpAmp Design Challenge
+# OpAmp Design Challenge 1
 
 Also checkout the [**📊Kickoff Slides**](https://docs.google.com/presentation/d/11iUuCnZQZhC-76pMEIqsWOjoYRWxP6tA/edit?slide=id.g369dd00d293_0_563#slide=id.g369dd00d293_0_563) for more details and links to examples.
 
 ## Objectives
 
-The goal of this challenge is to design an operational amplifier (op-amp) that meets specific performance criteria. It's encouraged to use python-based design automation to optimize the design parameters such as transistor sizing and placement to achieve the desired specifications.
+The goal of this challenge is to design an operational amplifier (op-amp) based on existing code. It's encouraged to use python-based design automation to optimize the design parameters such as transistor sizing and placement to achieve the desired specifications. There're no restrictions on the architecture or layout of the op-amp.
 
 ## Submission Deadline
 
