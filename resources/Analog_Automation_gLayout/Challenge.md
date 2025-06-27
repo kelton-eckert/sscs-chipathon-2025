@@ -1,6 +1,6 @@
-# OpAmp Design Challenge
+# OpAmp Design Challenge #1
 
-Also checkout the [**📊Kickoff Slides**](https://docs.google.com/presentation/d/11iUuCnZQZhC-76pMEIqsWOjoYRWxP6tA/edit?slide=id.g369dd00d293_0_563#slide=id.g369dd00d293_0_563) for more details and links to examples.
+Also, check out the [**📊3rd Weekly**](https://docs.google.com/presentation/d/11iUuCnZQZhC-76pMEIqsWOjoYRWxP6tA/edit?slide=id.g369dd00d293_0_563#slide=id.g369dd00d293_0_563) for more details and links to examples.
 
 ## Objectives
 
@@ -14,9 +14,9 @@ The deadline for submitting the design is **July 11th, 2025**.
 
 Participants are required to submit a github repository containing all the necessary files for generating the layout of the op-amp and evaluating its performance.
 
-The repository should be self-contained, including a readme file that provides clear instructions on how to run the design in a fresh linux environment.
+The repository should be self-contained, including a readme file that provides clear instructions on how to run the design in a fresh Linux environment.
 
-Please checkout the provided tutorial Python Notebooks in the gLayout repository on how to setup the environment.
+Please check out the provided tutorial Python Notebooks in the gLayout repository on how to set up the environment.
 
 ## Specifications
 
