@@ -1,4 +1,4 @@
-# OpAmp Design Challenge 1
+# OpAmp Design Challenge #1
 
 Also checkout the [**📊Kickoff Slides**](https://docs.google.com/presentation/d/11iUuCnZQZhC-76pMEIqsWOjoYRWxP6tA/edit?slide=id.g369dd00d293_0_563#slide=id.g369dd00d293_0_563) for more details and links to examples.
 
