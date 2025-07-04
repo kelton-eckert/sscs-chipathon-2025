@@ -35,7 +35,13 @@ This scripts require bash (or a compatible shell) to run. Compatible with most o
 #### Details Linux
 
 For Linux in the X11/Wayland mode using Docker CE (not Docker Desktop) per default the script detects the local X-Server and, if available, the GPU and also a Wayland display and makes them available to the container. This mode provides the fastest graphical user experience.
-If alternatively Docker Desktop is used, the container can only use the X-Server through a local TCP connection, which has degraded performance compared to Docker CE.
+If alternatively Docker Desktop is used, the container can only use the X-Server through a local TCP connection, which has degraded performance compared to Docker CE. The start script for the X11 mode uses `socat` to forward the X11-socket to the container. For this, please install it in the following way:
+To install socat, here are the commands for popular distributions:
+- Ubuntu/Debian (deb-based): `sudo apt-get -y install socat`
+- Arch/Manjaro (pacman-based): `pacman -S socat`
+- Fedora/RHEL/Rocky/Alma (rpm-based, RHEL-clones): `dnf -y install socat`
+- SuSE/openSUSE (rpm-based, SuSE-clones): `zypper install socat`
+
 The `/foss/designs/` folder is, per default, shared with your hosts directory `$HOME/eda/designs/`.
 
 #### Details MacOS

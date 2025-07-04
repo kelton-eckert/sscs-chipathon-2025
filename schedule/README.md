@@ -2,6 +2,7 @@
 
 This document outlines the official schedule for the SSCS Chipathon 2025 event.
 <br>All dates and activities are subject to confirmation.
+<br>The weekly zoom meeting is at 11AM Eastern Time at [this zoom link](https://us06web.zoom.us/j/83060635740?pwd=UbIWLnu8C7nyLTZE7JglzRgbwSa23r.1).
 <br>Please follow the [Element Chipathon 2025 channel](https://matrix.to/#/#chipathon-2025:fossi-chat.org) for up-to-date information. 
 <br>Teams are expected to complete a report by Wednesday of each week.
 <br>Individuals should complete a report up until the week after they join a team.
@@ -11,10 +12,10 @@ This document outlines the official schedule for the SSCS Chipathon 2025 event.
 ### Phase 1: Setup and Introduction
 | Week | Date | Event | Track Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|---------------|:-----------:|:--------:|:------:|
-| Week 24 | June 13, 2025 | **Kick-off Meeting** 🎓 | Introduction to chipathon phases (B. Murmann & M. Saligane) | [Watch](https://us06web.zoom.us/rec/play/7R43zVdBJIvKUHO5Hb1xpNI1o8aFAAOuyqDFUhHvJ20juDu67ZuM7Q9cKQpP4gMgjD79bYylSrV_7_E9.gH8j7Eni3SR8X_LS) | [View](https://docs.google.com/presentation/d/e/2PACX-1vQpsnQQYx9rm3Uk-9ZUyKv26wrVA1GNQS0Tp_aF_eWgUR7Z0twmoNh9nN4o8xFUaA/pub?start=false&loop=false&delayms=3000) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSf0l9pjk8H13COk0u5g6rslO9XfCWfeswnFdNbhgkuZ-IzfTA/viewform?usp=dialog) |
-| Week 25 | June 20, 2025 | **Tool Installation** 🎓 | • Full custom (analog) tool chain in docker (Harald)<br>• gLayout additional steps (Saptarshi) | [TBA]() | [TBA]() | [TBA]() |
-| Week 26 | June 27, 2025 | **Track Overviews** 🎓 | • MOSbius Overview (Peter)<br>• gLayout Tutorial 1 (Saptarshi/Mehdi)<br>• VLSI I + Building Blocks & Flow (Amro, T. Edwards) | [TBA]() | [TBA]() | [TBA]() |
-| Week 27 | July 04, 2025 | **Tutorial Sessions** 🎓 | • GF180 Examples (Juan)<br>• gLayout Tutorial 2 (Saptarshi/Mehdi/Akira)<br>• VLSI II + Building Blocks & Flow | [TBA]() | [TBA]() | [TBA]() |
+| Week 24 | June 13, 2025 | **Kick-off Meeting** 🎓 | Introduction to chipathon phases (B. Murmann & M. Saligane) | [Watch](https://us06web.zoom.us/rec/play/7R43zVdBJIvKUHO5Hb1xpNI1o8aFAAOuyqDFUhHvJ20juDu67ZuM7Q9cKQpP4gMgjD79bYylSrV_7_E9.gH8j7Eni3SR8X_LS) | [View](https://docs.google.com/presentation/d/e/2PACX-1vQpsnQQYx9rm3Uk-9ZUyKv26wrVA1GNQS0Tp_aF_eWgUR7Z0twmoNh9nN4o8xFUaA/pub) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSf0l9pjk8H13COk0u5g6rslO9XfCWfeswnFdNbhgkuZ-IzfTA/viewform?usp=dialog) |
+| Week 25 | June 20, 2025 | **Tool Installation** 🎓 | • Full custom (analog) tool chain in docker (Harald)<br>• gLayout additional steps (Saptarshi) | [Watch](https://us06web.zoom.us/rec/share/hD-inrOKABX2pX5CoLypBJ8y0PRiwezjjZBOifnBO1HsWiLQQXuTYWml4631fIPW.rnQKDoOw6DQHwkn6) | [View](https://docs.google.com/presentation/d/e/2PACX-1vQdbPDtoySuBoXIKmtaYK0QQP0KcUmgab9Mp3-7UxugTcsv5Y2R-2Ct8uTjzvbFuw/pub) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdWxIF3wgLxQ3bii0L78xMCi3FyG13leDfF3YdQF6DgLmHYMQ/viewform?usp=dialog) |
+| Week 26 | June 27, 2025 | **Track Overviews** 🎓 | • MOSbius Overview (Peter)<br>• gLayout Tutorial 1 (Saptarshi/Mehdi)<br>• VLSI I + Building Blocks & Flow (Amro, T. Edwards) | [Watch](https://us06web.zoom.us/rec/play/t9eSJEvT200p1KUmDX3fkZxoxBm4_mSPl3_-3XNIRSodUbyE448RdpXVryZRug1LNxqvvwrh1QhNUB9L.9qU4a-FvhlR4wiLV) | [View](https://docs.google.com/presentation/d/e/2PACX-1vQwOCDO72NBn09BWiQVFil2mFRwZ__72UmFIUbe2BdGgr498ldONym0g9bURT5FMA/pub) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLScdN-e7tGTNIHlmJA3LkwhiziLdIG0NwQyyjVGzjyFu5IyijA/viewform?usp=dialog) |
+| Week 27 | **July 03, 2025** | **Tutorial Sessions** 🎓 | • GF180 Examples (Juan)<br>• gLayout Tutorial 2 (Saptarshi/Mehdi/Akira)<br>• VLSI II + Building Blocks & Flow | [TBA]() | [TBA]() | [TBA]() |
 
 ### Phase 2: Team Formation and Project Planning
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
