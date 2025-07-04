@@ -13,11 +13,12 @@
 - :new: Design Challenge 1
   - [Detailed Requirements](./Challenge.md)
   - [Kickoff Slides](https://docs.google.com/presentation/d/11iUuCnZQZhC-76pMEIqsWOjoYRWxP6tA/edit?slide=id.g369dd00d293_0_563#slide=id.g369dd00d293_0_563)
+  
 - :new: [gLayout Tutorials](https://github.com/ReaLLMASIC/gLayout/tree/main/tutorial)
   - [Flipped Voltage Follower (FVF)](https://github.com/ReaLLMASIC/gLayout/blob/main/tutorial/glayout_tutorial_FVF_part1.ipynb)
   - [Inverter (INV)](https://github.com/ReaLLMASIC/gLayout/blob/main/tutorial/glayout_tutorial_INV_part1.ipynb)
 
-- [Contribution Guidelines](https://docs.google.com/document/d/e/2PACX-1vQ9F87BS4lC2H-BhqVhrEeN6cjHAp3Y6hl-7hd66XaX-45H-ELWVnJ2_sHwtAND5Kp36UI816LhIj6x/pub)
+- [Contribution Guidelines](https://docs.google.com/presentation/d/e/2PACX-1vRYHpcxItcbHfINOcBYVJ0q8JRr79yXTh8uxrhY4bHtAs3voaiZQN49snRvW8E6vg/pub?slide=id.g36c8198f0d5_0_37)
   - [Fork the gLayout Repo]() 
   - [Contribute]()
   - [Create Merge Request]()
