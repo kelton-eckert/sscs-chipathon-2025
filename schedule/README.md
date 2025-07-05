@@ -78,6 +78,6 @@ The chipathon includes several parallel tracks:
 For questions about specific issues, please contact the respective leaders:
 - MOSbius: Peter Kinget, Juan M. Baquero
 - gLayout: Saptarshi Gosh, Akira Tsuchiya, Mehdi Saligane
-- Digital Design: Amro Tork, James Stine, Tim Edwards
+- Digital Design: Amro Tork, James Stine, Tim Edwards, Sai Gautham T
 - Tooling: Harald Pretl, Saptarshi Gosh, Tim Edwards
 - Integration: Juan M. Baquero, Akira Tsuchiya 
