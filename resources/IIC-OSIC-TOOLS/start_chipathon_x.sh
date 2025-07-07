@@ -74,7 +74,7 @@ if [ -z ${DESIGNS+z} ]; then
 	[ -z "${IIC_OSIC_TOOLS_QUIET}" ] && echo "[INFO] Design directory auto-set to $DESIGNS."
 fi
 
-PARAMS="$PARAMS -v ${DESIGNS}:/foss/designs:rw"
+PARAMS="$PARAMS -v ${DESIGNS}:/foss/designs:rw,z"
 
 if [ -z ${DOCKER_USER+z} ]; then
 	DOCKER_USER="hpretl"
