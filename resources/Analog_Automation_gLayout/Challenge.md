@@ -1,6 +1,6 @@
 # OpAmp Design Challenge #1
 
-Also, check out the [**📊3rd Weekly**](https://docs.google.com/presentation/d/11iUuCnZQZhC-76pMEIqsWOjoYRWxP6tA/edit?slide=id.g369dd00d293_0_563#slide=id.g369dd00d293_0_563) for more details and links to examples.
+Also, check out the [**📊3rd Weekly**](https://docs.google.com/presentation/d/e/2PACX-1vQwOCDO72NBn09BWiQVFil2mFRwZ__72UmFIUbe2BdGgr498ldONym0g9bURT5FMA/pub?slide=id.g369dd00d293_0_491) for more details and links to examples.
 
 ## Objectives
 
