@@ -21,7 +21,7 @@ This document outlines the official schedule for the SSCS Chipathon 2025 event.
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
 |  | July 05, 2025 | **Team Formation Deadline** |  |  |
-| Week 28 | July 11, 2025 | **Project Proposal Review** 👥 | - | [TBA]() | [TBA]() | [TBA]() |
+| Week 28 | July 11, 2025 | **Project Proposal Review** 👥 | - | [Watch](https://us06web.zoom.us/rec/share/af6rDfemcIJYmMQ7cA9TW6KU5ojIiSGhkoZ0fdyMhoLQA7iMvKGbHkN1_1c3k1eu.RRqpPESkarFfJ5cI) | [View 1/2](https://docs.google.com/presentation/d/e/2PACX-1vQ9X2YuV-HSiZHVjvDTaz7JzXOTwWBogRJj-HR7-0yTNbbXNtv4UYqzkiuTKmifFw/pub) [View 2/2](https://docs.google.com/presentation/d/e/2PACX-1vTuCD3boMZTqoW8evglEbTYvFPle6pNkGY5D1Nfks2omM0f91QHV1gStGb9JoDOtQ/pub) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdlJd5VJSHBdy6bOssOfINuZt3CDx_-pwUoI0e2ZjyM6QktuQ/viewform?usp=dialog) |
 | Week 29 | July 18, 2025 | **Advanced Topics** 🎓 | • Systematic Design of Analog CMOS Circuits (Boris)<br>• LLM RAG Finetuning & Training (Greg) | [TBA]() | [TBA]() | [TBA]() |
 | Week 30 | July 25, 2025 | **LLM Integration** 🎓 | • Tutorial: Schematic Database & Simulations (Peter)<br>• Introduction to CACE (Tim E.)<br>• LLM-assisted analog Layout (Saptarshi, Greg, Mehdi)<br>• LLM assisted Digital Flow (Amro, Greg) | [TBA]() | [TBA]() | [TBA]() |
 
