@@ -22,6 +22,18 @@ Please visit [MOSbius Chipathon 2025 Documentation GitHub Repo](https://github.c
 
 Thanks, -- PK
 
+## Symbols for  5V standard cells included in the gf180 PDK
+
+> I have created symbols for some of the 5V standard cells included in the gf180 PDK so that we can create 'analog' schematics using the cells. Hopefully, we can save time by reusing the layouts of these cells for the digital circuits we need in, e.g., the switch matrix.
+
+> I put together a [repo with my current symbols](https://github.com/peterkinget/gf180mcu_fd_sc_mcu9t5v0_symbols/tree/main), test benches, and a brief README.md — use with caution, this is work in progress.
+
+> Let me know if you would like to collaborate on this. I can add you to the repo or you can fork and submit pull requests.
+
+> When adding this repo into your project design repo, make sure to add it as a submodule. Your favorite GPT can probably tell you how to do that.
+
+-- PK
+
 ## Progress Tracking Sheet
 
 ![](./files/image.png)
