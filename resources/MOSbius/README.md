@@ -22,6 +22,12 @@ Please visit [MOSbius Chipathon 2025 Documentation GitHub Repo](https://github.c
 
 Thanks, -- PK
 
+## Progress Tracking Sheet
 
+> I strongly recommend the teams to make a progress tracker that they update every week. You can use a simple google sheet to do this. See the attached example.
 
+> Isn't not so much about getting everything estimated super accurately, it's more about syncing up the team, tracking things to do, finding bottlenecks, retargeting goals if needed, helping out others where needed etc.
 
+> Of course, you are learning, might not know how much time certain steps will take, etc. etc. but that should not stop you from trying building a schedule, a task list, and tracking your progress. You will get better at it in your next chip designs.
+
+-- PK
